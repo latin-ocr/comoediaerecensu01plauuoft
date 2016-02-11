@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaerecensu01plauuoft_0016.png"; bbox 0 0 2003 3168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 920 1071 1240 1111">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 920 1071 1240 1111">
+     <span class='ocr_line' id='line_1_1' title="bbox 920 1071 1240 1111; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 920 1071 1240 1111; x_wconf 78' lang='lat' dir='ltr'>PERSONAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 793 1195 1331 1672">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 793 1195 1331 1672">
+     <span class='ocr_line' id='line_1_2' title="bbox 797 1195 1196 1236; baseline 0.008 -3"><span class='ocrx_word' id='word_1_2' title='bbox 797 1195 1071 1234; x_wconf 68' lang='lat' dir='ltr'><strong>Mencvmvs</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1101 1196 1196 1236; x_wconf 83' lang='lat' dir='ltr'><strong>deus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 799 1268 1107 1308; baseline 0.006 -2"><span class='ocrx_word' id='word_1_4' title='bbox 799 1268 942 1307; x_wconf 62' lang='lat' dir='ltr'>Sosm</span> <span class='ocrx_word' id='word_1_5' title='bbox 974 1280 1107 1308; x_wconf 76' lang='lat' dir='ltr'>servus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 796 1341 1158 1380; baseline 0.006 -2"><span class='ocrx_word' id='word_1_6' title='bbox 796 1341 1032 1380; x_wconf 70' lang='lat' dir='ltr'>vapl&#39;rssn</span> <span class='ocrx_word' id='word_1_7' title='bbox 1064 1342 1158 1380; x_wconf 71' lang='lat' dir='ltr'>dous</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 795 1415 1262 1454; baseline 0.004 -2"><span class='ocrx_word' id='word_1_8' title='bbox 795 1415 1054 1453; x_wconf 66' lang='lat' dir='ltr'><strong>AchussxA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1086 1421 1262 1454; x_wconf 78' lang='lat' dir='ltr'>matrona</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 795 1487 1190 1526; baseline 0.003 -2"><span class='ocrx_word' id='word_1_10' title='bbox 795 1488 1082 1526; x_wconf 70' lang='lat' dir='ltr'><strong>AMl’annvo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1113 1487 1190 1526; x_wconf 80' lang='lat' dir='ltr'>dux</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 796 1559 1331 1611; baseline 0.009 -14"><span class='ocrx_word' id='word_1_12' title='bbox 796 1559 1057 1598; x_wconf 61' lang='lat' dir='ltr'><strong>Bnnpmno</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1090 1561 1331 1611; x_wconf 78' lang='lat' dir='ltr'>gubernator</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 793 1630 1150 1672; baseline 0.011 -4"><span class='ocrx_word' id='word_1_14' title='bbox 793 1630 982 1670; x_wconf 70' lang='lat' dir='ltr'><strong>BnomA</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1013 1633 1150 1672; x_wconf 77' lang='lat' dir='ltr'>ancilla</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 931 1745 1233 1773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 931 1745 1233 1773">
+     <span class='ocr_line' id='line_1_9' title="bbox 931 1745 1233 1773; baseline 0.007 -2"><span class='ocrx_word' id='word_1_16' title='bbox 931 1745 1069 1772; x_wconf 67' lang='lat' dir='ltr'>SCAENA</span> <span class='ocrx_word' id='word_1_17' title='bbox 1100 1747 1233 1773; x_wconf 79' lang='lat' dir='ltr'>THEfflS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
